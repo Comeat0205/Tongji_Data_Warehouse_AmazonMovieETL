@@ -1,0 +1,12 @@
+# 数据集
+*.gz
+# 爬虫网页快照
+snapshots/
+# 数据库文件
+*.sqlite
+*.db
+# Python缓存
+__pycache__/
+*.pyc
+# 日志
+*.log
